@@ -1,0 +1,15 @@
+<svg width="70" height="70" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon">
+<rect id="bg" width="70" height="70" fill="#002656"/>
+<g id="Group 1">
+<path id="Vector" d="M49 24.0302V55.599C49 56.9216 47.8627 58 46.6103 58H23.3897C22.072 58 21 56.8566 21 55.599V15.4026C21 14.08 22.1373 13.0015 23.3897 13.0015H46.6103C47.9279 13.0015 49 14.145 49 15.4026V21.0705" stroke="white" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M23.7998 31.5496V52.3748H46.2002V15.8136H39.1997C38.3464 15.8943 37.8797 16.3633 37.7998 17.2206C37.7998 17.9966 37.1733 18.6268 36.3999 18.6268H33.6001C32.7471 18.5462 32.2804 18.0775 32.2002 17.2206C32.2002 16.4437 31.5728 15.8136 30.8003 15.8136H23.7998V28.5898" stroke="white" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M34.8763 15.9415C34.9095 15.9748 34.954 15.9932 35 15.9932C35.046 15.9932 35.0905 15.9748 35.1237 15.9415C35.157 15.9081 35.1761 15.8623 35.1761 15.8141C35.1761 15.7659 35.157 15.7201 35.1237 15.6867C35.0905 15.6534 35.046 15.6351 35 15.6351C34.954 15.6351 34.9095 15.6534 34.8763 15.6867C34.843 15.7201 34.8239 15.7659 34.8239 15.8141C34.8239 15.8623 34.843 15.9081 34.8763 15.9415Z" fill="black" stroke="white"/>
+<path id="Vector_4" d="M32.2 55.1874H37.8" stroke="white" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_5" d="M36.4729 43.9463H41.3V34.0973H28.7V43.9463H33.5271" stroke="white" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_6" d="M36.4 38.1004C36.4 38.877 35.7732 39.5066 35 39.5066C34.2268 39.5066 33.6 38.877 33.6 38.1004C33.6 37.3238 34.2268 36.6942 35 36.6942C35.7732 36.6942 36.4 37.3238 36.4 38.1004Z" stroke="white" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_7" d="M35 40.9127V39.5065" stroke="white" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_8" d="M39.2107 34.0974H36.3893V31.2742C36.3893 30.5048 35.766 29.8788 35 29.8788C34.234 29.8788 33.6107 30.5048 33.6107 31.2742V34.0974H30.7893V31.2742C30.7893 28.9422 32.6782 27.045 35 27.045C37.3218 27.045 39.2107 28.9422 39.2107 31.2742V34.0974Z" stroke="white" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</svg>
