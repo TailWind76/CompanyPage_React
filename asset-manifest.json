@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/CompanyPage_React/static/css/main.95e5decd.css",
+    "main.css": "/CompanyPage_React/static/css/main.b02088f1.css",
     "main.js": "/CompanyPage_React/static/js/main.54beb7c7.js",
     "static/js/787.28cb0dcd.chunk.js": "/CompanyPage_React/static/js/787.28cb0dcd.chunk.js",
-    "static/media/bannerVideo.gif": "/CompanyPage_React/static/media/bannerVideo.2a1372c31f0e76054b74.gif",
+    "static/media/banner.gif": "/CompanyPage_React/static/media/banner.72774aed8f87c6ea679c.gif",
     "static/media/AboutVideo.gif": "/CompanyPage_React/static/media/AboutVideo.2e2b8b91d56746d532e5.gif",
     "static/media/AboutImage.svg": "/CompanyPage_React/static/media/AboutImage.aea7fdddc0033874f056d168dac62274.svg",
     "static/media/advantagesImage.png": "/CompanyPage_React/static/media/advantagesImage.ab291693c6e38add36a4.png",
@@ -27,12 +27,12 @@
     "static/media/quote.svg": "/CompanyPage_React/static/media/quote.60fcd0cf2fad11b29048186e05c9ab7b.svg",
     "index.html": "/CompanyPage_React/index.html",
     "static/media/BtnNext.svg": "/CompanyPage_React/static/media/BtnNext.0f300e01b9e4ca31c17462a3a9dbc01f.svg",
-    "main.95e5decd.css.map": "/CompanyPage_React/static/css/main.95e5decd.css.map",
+    "main.b02088f1.css.map": "/CompanyPage_React/static/css/main.b02088f1.css.map",
     "main.54beb7c7.js.map": "/CompanyPage_React/static/js/main.54beb7c7.js.map",
     "787.28cb0dcd.chunk.js.map": "/CompanyPage_React/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.95e5decd.css",
+    "static/css/main.b02088f1.css",
     "static/js/main.54beb7c7.js"
   ]
 }
