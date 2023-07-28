@@ -1,0 +1,24 @@
+[
+    {
+      "newsId": 1,
+      "newsTitle": "The Importance of Employee Training in Strengthening Cybersecurity",
+      "newsText": "In today's digital landscape, organizations face an increasing number of cyber threats, and hackers continuously evolve their tactics to exploit vulnerabilities.",
+      "newsDate": "Oct 09,2023",
+      "newsImage":"./images/first.jpg"
+    },
+    {
+      "newsId": 2,
+      "newsTitle": "Protecting Your Business from Ransomware Attacks",
+      "newsText": "Outlining best practices for prevention, such as robust backup strategies, software patching, and network segmentation Discussing the importance of employee awareness.",
+      "newsDate": "Oct 08,2023",
+      "newsImage":"./images/second.jpg"
+    },
+    {
+      "newsId": 3,
+      "newsTitle": "Securing Remote Work: Best Practices for a Cyber-Resilient Remote Workforce",
+      "newsText": "The rise of remote work has introduced new cybersecurity challenges for organizations worldwide. With employees accessing corporate networks and sensitive data.",
+      "newsDate": "Oct 07,2023",
+      "newsImage":"./images/third.jpg"
+    }
+  ]
+  

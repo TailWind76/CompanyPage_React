@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/CompanyPage_React/static/css/main.95e5decd.css",
+    "main.js": "/CompanyPage_React/static/js/main.54beb7c7.js",
+    "static/js/787.28cb0dcd.chunk.js": "/CompanyPage_React/static/js/787.28cb0dcd.chunk.js",
+    "static/media/bannerVideo.gif": "/CompanyPage_React/static/media/bannerVideo.2a1372c31f0e76054b74.gif",
+    "static/media/AboutVideo.gif": "/CompanyPage_React/static/media/AboutVideo.2e2b8b91d56746d532e5.gif",
+    "static/media/AboutImage.svg": "/CompanyPage_React/static/media/AboutImage.aea7fdddc0033874f056d168dac62274.svg",
+    "static/media/advantagesImage.png": "/CompanyPage_React/static/media/advantagesImage.ab291693c6e38add36a4.png",
+    "static/media/AboutMap.png": "/CompanyPage_React/static/media/AboutMap.62d470b8cd4b89887724.png",
+    "static/media/reviewer.jpg": "/CompanyPage_React/static/media/reviewer.c4c63f937388c2b6b519.jpg",
+    "static/media/Rubik-Regular.woff2": "/CompanyPage_React/static/media/Rubik-Regular.7faeaac164d429f053a1.woff2",
+    "static/media/TitilliumWeb-Regular.woff2": "/CompanyPage_React/static/media/TitilliumWeb-Regular.34cf456d275c668b12ee.woff2",
+    "static/media/TitilliumWeb-Bold.woff2": "/CompanyPage_React/static/media/TitilliumWeb-Bold.97d99d733df814edb577.woff2",
+    "static/media/SolutionIcon4.svg": "/CompanyPage_React/static/media/SolutionIcon4.801216f391103ec0522e764a0415b96b.svg",
+    "static/media/SolutionIcon6.svg": "/CompanyPage_React/static/media/SolutionIcon6.f0d3c35c7397e6780d7b146a18c14c40.svg",
+    "static/media/rate.svg": "/CompanyPage_React/static/media/rate.0e2978b1d107fa61778f503515c1f34b.svg",
+    "static/media/SolutionIcon2.svg": "/CompanyPage_React/static/media/SolutionIcon2.d6d5033b9959dea3b6be3c6e76265d92.svg",
+    "static/media/SolutionIcon3.svg": "/CompanyPage_React/static/media/SolutionIcon3.b3b3a265402866fd07494ace5692cf07.svg",
+    "static/media/phone.svg": "/CompanyPage_React/static/media/phone.98e05275f46d48b8dc5359a2636109ee.svg",
+    "static/media/contacts.svg": "/CompanyPage_React/static/media/contacts.d3905884e2e915d903d6d31d05b8e44b.svg",
+    "static/media/complete.svg": "/CompanyPage_React/static/media/complete.20dd19f24ca997066d31d6326a6b7a05.svg",
+    "static/media/SolutionIcon1.svg": "/CompanyPage_React/static/media/SolutionIcon1.d6db6e26120e26d74b0312ed51df4b74.svg",
+    "static/media/SolutionIcon5.svg": "/CompanyPage_React/static/media/SolutionIcon5.c9fdf3cca6d7ba81430598fa00fa5537.svg",
+    "static/media/Calendar.svg": "/CompanyPage_React/static/media/Calendar.debea5886504b287fca7552fda2bfa74.svg",
+    "static/media/email.svg": "/CompanyPage_React/static/media/email.e01c01a9ff8a12ae04b1b060235c76e5.svg",
+    "static/media/quote.svg": "/CompanyPage_React/static/media/quote.60fcd0cf2fad11b29048186e05c9ab7b.svg",
+    "index.html": "/CompanyPage_React/index.html",
+    "static/media/BtnNext.svg": "/CompanyPage_React/static/media/BtnNext.0f300e01b9e4ca31c17462a3a9dbc01f.svg",
+    "main.95e5decd.css.map": "/CompanyPage_React/static/css/main.95e5decd.css.map",
+    "main.54beb7c7.js.map": "/CompanyPage_React/static/js/main.54beb7c7.js.map",
+    "787.28cb0dcd.chunk.js.map": "/CompanyPage_React/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95e5decd.css",
+    "static/js/main.54beb7c7.js"
+  ]
+}
