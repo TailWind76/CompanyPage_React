@@ -1,6 +1,6 @@
 # EN
 
-# ToDo React App
+# CompanyPage React App
 
 ## Description
 This application is created solely for frontend demonstration purposes and does not include any backend component. It showcases the client-side part only, developed using modern web technologies and frameworks.
@@ -36,7 +36,7 @@ For all inquiries and proposals, please contact me via email: vladislavdokucaev8
 
 # RU
 
-# ToDo React приложение
+# CompanyPage React приложение
 
 ## Описание
 Это приложение создано исключительно для демонстрации фронтенда и не предусматривает наличие бэкенд-составляющей. Здесь представлена только клиентская часть, которая разработана с использованием современных веб-технологий и фреймворков.
